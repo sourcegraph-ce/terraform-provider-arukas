@@ -3,7 +3,7 @@ package initwd
 import (
 	"fmt"
 	"github.com/hashicorp/terraform/registry"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"path/filepath"
 	"strings"
